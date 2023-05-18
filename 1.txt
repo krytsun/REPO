@@ -1,3 +1,5 @@
 Hello'enky buly.
 This is branch developer
 abra-kadabra
+beta-first commit
+beta-second commit
